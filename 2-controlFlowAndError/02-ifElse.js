@@ -33,4 +33,3 @@ if(name.charAt (0) === name.charAt(0).toUpperCase()) {
 //charAt(0) -- method
 //[0] -- squarebracket notation
 
-S
